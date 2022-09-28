@@ -23,6 +23,7 @@
   
   ## Usage
   Run "node index". You will run through a series of questions that will automatically create a your README markdown file based on your input. 
+  [Link to Walkthrough](https://youtu.be/_FDx8HAzem0)
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
