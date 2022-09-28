@@ -1,4 +1,4 @@
-# readme-generator
+# sample app
   ## Badges
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -16,22 +16,22 @@
   [MIT](https://opensource.org/licenses/MIT)
   
   ## Description
-  This application provides a more efficient method of creating README markdown files. 
+  this is a sample, just to test my readme-generator
   
   ## Installation
-  Not Applicable
+  n/a
   
   ## Usage
-  Run "node index". You will run through a series of questions that will automatically create a your README markdown file based on your input. 
+  run "node index"
   
   ## How to Contribute
   [Contributor Covenant](https://www.contributor-covenant.org/)  
-  Not Applicable
+  n/a
   
   ## Tests
-  Not Applicable
+  run the application
   
   ## Questions?
   ### Reach me here: 
-  [erbeard](https://github.com/erbeard)  
-  sample@sample.com
+  [sample](https://github.com/sample)  
+  sample@example.com
